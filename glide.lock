@@ -1,8 +1,10 @@
 hash: b734c99549bd35486aea3318930a24a8bab419bd43c45ea2c14263a7353c1177
-updated: 2017-08-26T21:45:36.5547648+08:00
+updated: 2017-08-26T23:47:54.0790869+08:00
 imports:
 - name: github.com/sirupsen/logrus
   version: f006c2ac4710855cf0f916dd6b77acf6b048dc6e
+- name: github.com/spf13/pflag
+  version: e57e3eeb33f795204c1ca35f56c44f83227c6e66
 - name: golang.org/x/crypto
   version: 81e90905daefcd6fd217b62423c0908922eadb30
   subpackages:
