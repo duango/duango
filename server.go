@@ -14,6 +14,7 @@ type Server struct {
 	running bool
 
 
+
 }
 
 func NewServer() *Server {

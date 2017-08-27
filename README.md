@@ -19,5 +19,7 @@ A minecraft server implement in golang.
 
 ## Reference
 
+* http://wiki.vg/Protocol
+* http://wiki.vg/Protocol_version_numbers
 * https://github.com/skirmish/netherrack
 * https://github.com/cuberite/cuberite
